@@ -99,7 +99,8 @@ Lista de sites para ler mangás online.
 
 | Nome do Site       | Idioma | Descrição                                      | Link |
 |--------------------|--------|------------------------------------------------|------|
-| Mangá Livre        | PT-BR  | Site com mangás traduzidos para o português.   | [Acessar](https://mangalivre.net) |
+| Akimanga        | PT-BR  | Site de Yaoi Traduzido pra tradução +18   | [Acessar](https://akimanga.com) |
+| Algodão Doce        | PT-BR  | Site de Yaoi Traduzido pra tradução +18   | [Acessar](https://algodãodoce.com) |
 
 ### Manhwas e Manhuas
 Lista de sites para ler manhwas e manhuas online.
