@@ -107,7 +107,12 @@ Lista de sites para ler manhwas e manhuas online.
 
 | Nome do Site       | Idioma | Descrição                                      | Link |
 |--------------------|--------|------------------------------------------------|------|
-| Sussytoons         | PT-BR  | Traduções de manhwas e webtoons.               | [Acessar](https://sussytoons.wtf) |
+| Aniargos         | PT-BR  | Traduções de manhwas e webtoons.               | [Acessar](aniargos.com) |
+| Arthur Scan         | PT-BR  | Traduções de manhwas e webtoons.               | [Acessar](https://arthurscan.xyz) |
+| Astratoons         | PT-BR  | Traduções de manhwas e webtoons.               | [Acessar](https://new.astratoons.com) |
+| Atemporal         | PT-BR  | Traduções de manhwas e webtoons.               | [Acessar](https://atemporal.cloud1) |
+| Hanami Haeven         | PT-BR  | Traduções de manhwas e webtoons e +18.               | [Acessar](https://hanamiheaven.org) |
+| INKAPK         | PT-BR  | Traduções de manhwas e webtoons.               | [Acessar](https://inkapk.net) |
 
 ---
 
