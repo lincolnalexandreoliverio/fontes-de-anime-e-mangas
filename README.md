@@ -1,65 +1,35 @@
-# Fontes de Animes e Mangás 📚
+# REPOSITÓRIO TUDO EM 1
 
-Bem-vindo ao repositório **Fontes de Animes e Mangás**! Este projeto tem como objetivo centralizar todas as fontes disponíveis de animes, mangás, manhwas e manhuas no Brasil. Aqui você encontrará links, descrições e informações sobre os melhores sites para acompanhar suas obras favoritas.
+Seja bem vindo ao Repositório tudo em 1 esse repositório tem como objetivo juntar fontes de todo tipo des de jogos a entretenimento 
 
 ---
 
-## 📋 Sumário
+## 📋 SUMÁRIO 
 
-- [📌 Sobre o Projeto](#-sobre-o-projeto)
-- [🚀 Como Usar](#-como-usar)
-- [📂 Categorias](#-categorias)
-  - [Animes](#animes)
-  - [Donghua](#donghua)
-  - [Doramas](#doramas)
-  - [Mangás](#mangás)
-  - [Manhwas e Manhuas](#manhwas-e-manhuas)
-- [🤝 Como Contribuir](#-como-contribuir)
-- [🐛 Reportar Problemas](#-reportar-problemas)
-- [📜 Estrutura Detalhada](#-estrutura-detalhada)
-  - [Anime](#anime)
-  - [Mangá](#mangá)
-  - [Light Novels](#light-novels)
-- [🙌 Agradecimentos](#-agradecimentos)
-- [📜 Licença](#-licença)
-
+- [📌 Sobre o Projeto](#-Sobre-o-Projeto)
+- [📁 Categorias](#-Categorias)
+  -[
 ---
 
 ## 📌 Sobre o Projeto
 
-Este repositório foi criado para facilitar o acesso a fontes confiáveis e atualizadas de animes e mangás. Nosso objetivo é:
+Este repositório foi criado para facilitar o acesso a fontes de tudo. Nosso objetivo é
 
 - **Centralizar informações**: Reunir todos os sites em um único lugar.
 - **Facilitar a busca**: Organizar os sites por categorias.
-- **Manter a comunidade informada**: Atualizar constantemente com novas fontes e remover links quebrados.
-- **O Projeto Apenas e Relacionado ao idioma Brasileiro, tanto Dublado e Legendado**
-
----
-
-## 🚀 Como Usar
-
-1. **Navegue pelas categorias**:
-   - [Animes](#animes)
-   - [Donghua](#donghua)
-   - [Doramas](#doramas)
-   - [Mangás](#mangás)
-   - [Manhwas](#manhwas)
-   - [Manhuas](#manhuas)
-
-2. **Contribua**:
-   - Encontrou um site que não está listado? [Sugira uma nova fonte](#como-contribuir).
-   - Encontrou um link quebrado? [Reporte um problema](#reportar-problemas).
+- **Manter a comunidade informada**: Atualizar constantemente com novas fontes.
+- **O Projeto Apenas e Relacionado ao idioma Brasileiro**
 
 ---
 
 ## 📂 Categorias
 
-### Animes
-Lista de sites para assistir animes online ou baixar episódios.
+### Filmes e Séries 
+Lista de sites para assistir Filmes e Séries online ou baixar episódios.
 
 | Nome do Site       | Idioma | Descrição                                      | Link |
 |--------------------|--------|------------------------------------------------|------|
-| Crunchyroll        | PT-BR  | Plataforma oficial com animes legendados e dublados. | [Acessar](https://www.crunchyroll.com) |
+|  Netflix  | PT-BR  | Maior plataforma para asssitir filmes e séries | [Acessar] (https://www.netflix.com/br/)  |
 | Animes Online      | PT-BR  | Site com animes gratuitos e legendados.        | [Acessar](https://animesonlinecc.to) |
 | AnimeFire      | PT-BR  | Site com animes legendados e dublados.        | [Acessar](https://animefire.plus) |
 | Animes Vision	      | PT-BR  | Site com animes legendados e dublados.        | [Acessar](https://animesvision.to) |
